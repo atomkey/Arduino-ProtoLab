@@ -1,9 +1,9 @@
 # Arduino-ProtoLab
 
-------------------------------------------------------------------------
  GITHUB 
 
  02/15/17 by: Atomkey / atomkey.net
+ 
  README FILE: for GitHub Arduino Adjunct and Prototype Studio
 
  This is a general database of code, projects, snipits, random
@@ -15,4 +15,3 @@
  code code code. But I must admit. I mucho likeo codeo. 
 
  end of README
-------------------------------------
